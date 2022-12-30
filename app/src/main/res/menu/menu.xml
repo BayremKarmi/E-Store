@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/o1"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Add Article"/>
+    <item
+        android:id="@+id/o2"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="Home"/>
+    <item
+        android:id="@+id/o3"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        android:title="PC Portable"/>
+    <item
+        android:id="@+id/o4"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        android:title="Smartphone"/>
+    <item
+        android:id="@+id/o5"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        android:title="Smart TV"/>
+    <item
+        android:id="@+id/o6"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        android:title="Autre Equipement"/>
+</menu>
